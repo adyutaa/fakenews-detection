@@ -1,4 +1,4 @@
-# FDetecting Fake News with Machine Learning (using TfidVectorizer)
+# Detecting Fake News with Machine Learning (using TfidVectorizer & PassiveAggresiveClassifier)
 
 # What is TfidVectorizer?
 
